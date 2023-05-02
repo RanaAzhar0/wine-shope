@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wine-shope/static/css/main.8fe5c730.css",
+    "main.js": "/wine-shope/static/js/main.969bb91d.js",
+    "static/media/hero.webp": "/wine-shope/static/media/hero.1444f015a3f99a2202b4.webp",
+    "static/media/newfolder23.jpg": "/wine-shope/static/media/newfolder23.ed3df08db902486983eb.jpg",
+    "static/media/newfolder09.jpg": "/wine-shope/static/media/newfolder09.284669197134d89b33af.jpg",
+    "static/media/newfolder12.jpg": "/wine-shope/static/media/newfolder12.f17296391591c06e347c.jpg",
+    "static/media/newfolder14.jpg": "/wine-shope/static/media/newfolder14.e1c839a6060fced3e8ce.jpg",
+    "static/media/newfolder11.jpg": "/wine-shope/static/media/newfolder11.2ea52f43101bf68dd4b5.jpg",
+    "static/media/new folder25.jpg": "/wine-shope/static/media/new folder25.2aed08980603ba15c81c.jpg",
+    "static/media/newfolder10.jpg": "/wine-shope/static/media/newfolder10.2770c07f32eb2dabf0c5.jpg",
+    "static/media/newfolder13.jpg": "/wine-shope/static/media/newfolder13.1d13ab40626894fee9dc.jpg",
+    "static/media/new folder28.jpg": "/wine-shope/static/media/new folder28.fa21fa5b4a69af91550d.jpg",
+    "static/media/new folder27.jpg": "/wine-shope/static/media/new folder27.35227bfb593c683cb77e.jpg",
+    "static/media/new folder30.jpg": "/wine-shope/static/media/new folder30.cc13ef33c86f85152a34.jpg",
+    "static/media/new folder31.jpg": "/wine-shope/static/media/new folder31.653b622ec2fe68661d1f.jpg",
+    "static/media/download.png": "/wine-shope/static/media/download.7f4a4a9049988592b62a.png",
+    "static/media/new folder26.jpg": "/wine-shope/static/media/new folder26.e4274390fc8c5af19e42.jpg",
+    "index.html": "/wine-shope/index.html",
+    "main.8fe5c730.css.map": "/wine-shope/static/css/main.8fe5c730.css.map",
+    "main.969bb91d.js.map": "/wine-shope/static/js/main.969bb91d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe5c730.css",
+    "static/js/main.969bb91d.js"
+  ]
+}
