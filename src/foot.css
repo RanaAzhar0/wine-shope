@@ -1,0 +1,20 @@
+
+.w-1\/4{
+padding: 10px;
+}
+h3,p,a{
+color: #fff;
+}
+li{
+padding-top: 5px;
+}
+a:hover{
+color: #ddd;
+}
+@media(max-width: 642px){
+.w-full,.bottom{
+text-align: center;
+}
+.pl-8{
+padding-left: 0px;
+}}
