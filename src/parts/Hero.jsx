@@ -19,7 +19,7 @@ const Hero = () => {
 
       </div>
       <div className='h-[90vh] w-[100%] bg-yellow-400 p-1'>
-        <h1 className='text-5xl font-extrabold text-white font-[oswald] mt-11 ml-[78vh]'>WHY SUBSCRIBE?</h1>
+        <h1 className='text-5xl font-extrabold text-white font-[oswald] mt-11 ml-[78vh]'>WHY SUBSCRIBE??</h1>
         <div className=' h-[65vh] w-[100%] flex items-center justify-around mt-11' >
           <div className='h-[55vh] w-[30%] flex flex-col justify-between items-center'>
             <div className='h-52 w-52 '>

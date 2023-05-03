@@ -12,6 +12,7 @@ import Img6 from "../images/new folder31.jpg"
 
 const Cards = () => {
   return (
+    
     <>
     <div className='h-44 w-[100%] bg-black flex flex-row' >
         <div className='h-[100%] w-[20%] hover:opacity-90'>
